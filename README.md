@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="ilus-code.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="logoxo">
 
 <p align="left"> 
  🥴 Probably busy <strong>doing nothing</strong>.
