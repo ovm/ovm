@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="150px" max-width="150px" width="150px" align="right" alt="logoxo">
+<img src="ilus-code.svg" min-width="75px" max-width="75px" width="75px" align="right" alt="logoxo">
 
 <p align="left"> 
  🥴 Probably busy <strong>doing nothing</strong>.
