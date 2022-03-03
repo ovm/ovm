@@ -7,7 +7,6 @@
 <br>
 
 <p align="left">
-  <a href="“https://discordapp.com/users/526747520802750467" alt="Discord">
-    <img src="disc.svg"/>
+  [![Discord](https://raw.githubusercontent.com/ovm/ovm/main/disc.svg)](https://discordapp.com/users/526747520802750467)
   </a>
 </p>
