@@ -8,6 +8,6 @@
 
 <p align="left">
   <a href="“https://discordapp.com/users/526747520802750467/" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discordapp.com/users/526747520802750467/"/>
+    <img src="https://dcbadge.vercel.app/api/shield/bot/526747520802750467/"/>
   </a>
 </p>
